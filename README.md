@@ -23,6 +23,11 @@
 - [Vue Tailwind 2.0](https://www.vue-tailwind.com/)
 
 - [Tailwind Awesome ](https://www.tailwindawesome.com/)
+
+> VsCode extension
+
+- [Blox](https://blox-marketing-website.vercel.app/)
+
 ## Feedback
 
 Se você tiver algum feedback, por favor nos deixe saber por meio de dev@karytonn.dev
