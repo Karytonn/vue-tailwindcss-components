@@ -24,10 +24,20 @@
 
 - [Tailwind Awesome ](https://www.tailwindawesome.com/)
 
+- [Tailus.io](https://tailus.io/)
+
 > VsCode extension
 
 - [Blox](https://blox-marketing-website.vercel.app/)
 
+> Tailwind play tips
+
+- [Text color animation](https://play.tailwindcss.com/JnNryo1CmL)
+
+- [Hover change image](https://play.tailwindcss.com/rIGvrN1VAU)
+
 ## Feedback
 
 Se você tiver algum feedback, por favor nos deixe saber por meio de dev@karytonn.dev
+
+
