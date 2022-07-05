@@ -38,6 +38,6 @@
 
 ## Feedback
 
-Tem alguma sugestão? Deixe uma [issues aqui](https://github.com/Karytonn/vue-tailwindcss-components/issues)
+Deixe sua [sugestão aqui](https://github.com/Karytonn/vue-tailwindcss-components/issues)
 
 
