@@ -26,7 +26,7 @@
 
 - [Tailus.io](https://tailus.io/)
 
-- [HyperUI](https://www.hyperui.dev/)
+- [HyperUI](https://www.hyperui.dev/) #New ⭐️
 
 > VsCode extension
 
