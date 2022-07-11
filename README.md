@@ -26,6 +26,8 @@
 
 - [Tailus.io](https://tailus.io/)
 
+- [HyperUI](https://www.hyperui.dev/)
+
 > VsCode extension
 
 - [Blox](https://blox-marketing-website.vercel.app/)
