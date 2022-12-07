@@ -3,7 +3,7 @@
 
 ## Lista de componentes Tailwind para VueJS / NuxtJs / ...
 
-- [https://daisyui.com/](daisyUI) #New ⭐️
+- [daisyUI](https://daisyui.com/) #New ⭐️
 
 - [Tailwind.io](https://kitwind.io/products/kometa/components)
 
